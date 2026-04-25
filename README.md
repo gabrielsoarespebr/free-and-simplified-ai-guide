@@ -28,3 +28,11 @@ If Machine Learning (ML) focuses on learning, there is a subset of ML called [De
 | ------- | ------------------------------------------------ | --------------------------- |
 | Goal    | Create new content                               | Classify or predict content |
 | Example | Gemini using Nano Banana to generate a dog image | Spam filter                 |
+
+---
+
+# Main sources:
+- Courses:
+  - Introduction to Generative AI (By Google Cloud Skills Boost)
+- Books:
+  - Hands-On Machine Learning with Scikit-Learn, Keras, and Tensorflow: Concepts, Tools, and Techniques to Build Intelligent Systems (By Aurélien Géron)
