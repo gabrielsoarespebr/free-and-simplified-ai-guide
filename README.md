@@ -18,6 +18,14 @@
 
 # Inside Machine Learning (ML)
 
+<div align="center">
+  <a href="https://assets.qlik.com/image/upload/w_1600/q_auto/qlik/glossary/augmented-analytics/seo-machine-learning-vs-ai-how-ml-ai-work-together_hdgcbz.png">
+    <img src="https://assets.qlik.com/image/upload/w_1600/q_auto/qlik/glossary/augmented-analytics/seo-machine-learning-vs-ai-how-ml-ai-work-together_hdgcbz.png" width="600" alt="Hierarchical diagram showing Deep Learning inside Neural Nets inside Machine Learning inside Artificial Intelligence"/>
+  </a>
+  <br/>
+  <em>Image source: Qlik</em>
+</div>
+
 If Machine Learning (ML) focuses on learning, there is a subset of ML called [Deep Learning](#inside-deep-learning), which uses neural networks inspired by the human brain to solve the complex problems.
 
 ---
