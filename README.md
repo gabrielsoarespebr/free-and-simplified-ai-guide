@@ -38,6 +38,20 @@ If Machine Learning (ML) focuses on learning, there is a subset of ML called [De
 | Example | Gemini using Nano Banana to generate a dog image | Spam filter                 |
 
 ---
+# What is Machine Learning (ML)?
+
+- Machine Learning (ML): the process of training a [model](#what-is-a-model) to perform a task using data.
+
+## Types of ML Systems
+
+|         | Supervised learning                                            | Unsupervised learning                                                                     | Reinforcement learning                                                                |
+| ------- | -------------------------------------------------------------- | ----------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
+| Meaning | Training a model using features and their corresponding labels | Training a model using features without labels                                            | Training an agent through interaction with an environment using rewards and penalties |
+| Source  | Labeled data (features + labels)                               | Unlabeled data (features only)                                                            | Rewards and penalties (trial and error)                                               |
+| Analogy | Studying for an exam using answered exams                      | Organizing a box of mixed objects by similarity without knowing the categories beforehand | Giving a dog a treat after it obeys the "sit" command                                 |
+| Jargons | Feature (input), Label (target/output)                         | Feature (input), Pattern                                                                  | Policy                                                                                |
+
+---
 
 # Main sources:
 - Courses:
