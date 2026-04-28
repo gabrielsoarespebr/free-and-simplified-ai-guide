@@ -53,6 +53,20 @@ If Machine Learning (ML) focuses on learning, there is a subset of ML called [De
 
 ---
 
+# What is a model?
+
+- Model: Mathematical function that maps inputs to outputs with parameters learned from data.
+
+## Types of model
+
+|                 | Untrained model                                                                                                                                                                            | Pre-trained model                                                                                                                                                                                                                                                          | Trained model                                                                                                                                                                                                                                                     |
+| --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Parameters      | Random parameters                                                                                                                                                                          | Parameters learned from general data                                                                                                                                                                                                                                       | Parameters learned from specific data                                                                                                                                                                                                                             |
+| Patterns        | No patterns                                                                                                                                                                                | General patterns                                                                                                                                                                                                                                                           | Specific pattern                                                                                                                                                                                                                                                  |
+| Didatic example | Considering the size of a house as x, predict the price of a house in your neighborhood with y = 2x + 10. Why 2 and 10? No reason, the model is useless because the parameters are random! | Considering the size of a house as x, predict the price of a house in your neighborhood with y = 3000x + 50000. Why 3000 and 50000? Because these are the parameters for an average house around the world, so the model can be reused if fine-tuned to your neighborhood. | Considering the size of a house as x, predict the price of a house in your neighborhood with y = 4000x + 20000. Why 4000 and 20000? Because these are exactly the parameters for a average house in your neighborhood, which makes the model accurate/fine-tuned. |
+
+---
+
 # Main sources:
 - Courses:
   - [Introduction to Generative AI](https://www.skills.google/paths/118/course_templates/536) (By Google Cloud Skills Boost)
