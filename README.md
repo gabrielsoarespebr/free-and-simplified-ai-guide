@@ -76,9 +76,14 @@ If Machine Learning (ML) focuses on learning, there is a subset of ML called [De
 
 ---
 
-# Main sources:
-- Courses:
-  - [Introduction to Generative AI](https://www.skills.google/paths/118/course_templates/536) (By Google Cloud Skills Boost)
-  - [Introduction to Machine Learning](https://developers.google.com/machine-learning/intro-to-ml) (By Google for Developers)
-- Books:
-  - Hands-On Machine Learning with Scikit-Learn, Keras, and Tensorflow: Concepts, Tools, and Techniques to Build Intelligent Systems (By Aurélien Géron)
+# Other:
+- Main sources:
+  - Courses:
+    - [Introduction to Generative AI](https://www.skills.google/paths/118/course_templates/536) (By Google Cloud Skills Boost)
+    - [Introduction to Machine Learning](https://developers.google.com/machine-learning/intro-to-ml) (By Google for Developers)
+  - Books:
+    - Hands-On Machine Learning with Scikit-Learn, Keras, and Tensorflow: Concepts, Tools, and Techniques to Build Intelligent Systems (By Aurélien Géron)
+
+- Author info
+  - LinkedIn: [gabrielsoarespebr](https://www.linkedin.com/in/gabrielsoarespebr/)
+  - GitHub: [gabrielsoarespebr](https://github.com/gabrielsoarespebr)
