@@ -49,6 +49,9 @@ First, try to imagine a solution without ML (heuristic solution), then evaluate 
 
 ## Types of ML Systems
 
+- According to the task: [Generative or Discriminative](#inside-deep-learning)
+- According to the learning type: Supervised learning, Unsupervised learning or Reinforcement learning
+
 |              | Supervised learning                                                                      | Unsupervised learning                                                                                                                                                                    | Reinforcement learning                                                                                                                      |
 | ------------ | ---------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
 | Meaning      | Training a model using features and their corresponding labels                           | Training a model using features without labels                                                                                                                                           | Training an agent through interaction with an environment using rewards and penalties                                                       |
