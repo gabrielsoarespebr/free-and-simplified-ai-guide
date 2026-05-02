@@ -120,6 +120,7 @@ Regression and classification are the two most common supervised learning cases:
   - Courses:
     - [Introduction to Generative AI](https://www.skills.google/paths/118/course_templates/536) (By Google Cloud Skills Boost)
     - [Introduction to Machine Learning](https://developers.google.com/machine-learning/intro-to-ml) (By Google for Developers)
+    - [Introduction to Machine Learning Problem Framing](https://developers.google.com/machine-learning/problem-framing) (By Google for Developers)
   - Books:
     - Hands-On Machine Learning with Scikit-Learn, Keras, and Tensorflow: Concepts, Tools, and Techniques to Build Intelligent Systems (By Aurélien Géron)
 
