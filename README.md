@@ -52,6 +52,15 @@ If Machine Learning (ML) focuses on learning, there is a subset of ML called [De
 | Analogy      | Studying for an exam using answered exams. Questions are features and answers are labels | Organizing a box of mixed objects by similarity without knowing the categories beforehand. Features are object characteristics and pattern are the groups based on these characteristics | Giving a dog a treat after it obeys the "sit" command. Policy is the rule the dog learns: sitting leads to a reward, while jumping does not |
 | Common cases | [Regression and classification](#supervised-learning-common-cases)                       |                                                                                                                                                                                          |                                                                                                                                             |
 
+<div align="center">
+  <a href="https://assets.qlik.com/image/upload/w_1600/q_auto/qlik/glossary/augmented-analytics/seo-machine-learning-vs-ai-how-ml-ai-work-together_hdgcbz.png">
+    <img src="https://developers.google.com/static/machine-learning/intro-to-ml/images/labeled_example.png" width="600" alt="Features and label in a weather model that predicts rainfall"/>
+  </a>
+  <br/>
+  <p>Features and label in a weather model that predicts rainfall</p>
+  <em>Image source: Google Developers</em>
+</div>
+
 ---
 
 ### Supervised learning common cases
