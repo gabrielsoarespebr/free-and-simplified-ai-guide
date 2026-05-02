@@ -42,6 +42,11 @@ If Machine Learning (ML) focuses on learning, there is a subset of ML called [De
 
 - Machine Learning (ML): the process of training a [model](#what-is-a-model) to perform a task using data.
 
+> [!NOTE]
+ML isn't a silver bullet, don't try to solve every problem with ML.
+In many cases, it can be overkill, like using a sledgehammer to crack a nut.
+First, try to imagine a solution without ML (heuristic solution), then evaluate whether an ML approach actually adds value to your solution in terms of quality, cost, time savings, and performance.
+
 ## Types of ML Systems
 
 |              | Supervised learning                                                                      | Unsupervised learning                                                                                                                                                                    | Reinforcement learning                                                                                                                      |
