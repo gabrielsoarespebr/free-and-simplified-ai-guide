@@ -72,10 +72,32 @@ First, try to imagine a solution without ML (heuristic solution), then evaluate 
 ---
 
 ### Supervised learning common cases
+
+Regression and classification are the two most common supervised learning cases:
 - Regression: predict a numeric value. (e.g., house price)
+
+<div align="center">
+  <a href="https://developers.google.com/machine-learning/problem-framing/ml-framing">
+    <img src="https://developers.google.com/static/machine-learning/problem-framing/images/regression-model.png" width="300" alt="A regression model making a numeric prediction"/>
+  </a>
+  <br/>
+  <em>Image source: Google Developers</em>
+  <p>A regression model making a numeric prediction</p>
+</div>
+
+
 - Classification: predict which category an input belongs to by estimating probabilities.
   - Binary classification: two possible classes (e.g., whether it will rain or not).
   - Multiclass classification: multiple classes (e.g., classifying an animal in an image as a cat, dog, or bird).
+
+<div align="center">
+  <a href="https://developers.google.com/machine-learning/problem-framing/ml-framing">
+    <img src="https://developers.google.com/static/machine-learning/problem-framing/images/classification-model.png" width="300" alt="A regression model making a numeric prediction"/>
+  </a>
+  <br/>
+  <em>Image source: Google Developers</em>
+  <p>A classification model making predictions</p>
+</div>
 
 ---
 
