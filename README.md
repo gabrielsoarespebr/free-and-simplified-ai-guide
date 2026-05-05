@@ -50,6 +50,9 @@ First, try to imagine a solution without ML (heuristic solution), then evaluate 
 ## Types of ML Systems
 
 - According to the task: [Generative or Discriminative](#inside-deep-learning)
+- According to the training approach: Batch learning or Online learning
+  - Batch learning: Periodic retraining. "Train then use". (e.g. house price prediction)
+  - Online learning: Real-time updates as new data arrives. "Learn while using". (e.g. YouTube recommendations)
 - According to the learning type: Supervised learning, Unsupervised learning or Reinforcement learning
 
 |              | Supervised learning                                                                      | Unsupervised learning                                                                                                                                                                    | Reinforcement learning                                                                                                                      |
