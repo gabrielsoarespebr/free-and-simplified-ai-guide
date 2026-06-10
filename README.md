@@ -72,6 +72,15 @@ First, try to imagine a solution without ML (heuristic solution), then evaluate 
   <em>Image source: Google Developers</em>
 </div>
 
+<div align="center">
+  <a href="https://i.ibb.co/NgqnTL2k/Captura-de-tela-2026-06-09-222034.png">
+    <img src="https://i.ibb.co/NgqnTL2k/Captura-de-tela-2026-06-09-222034.png" width="600" alt="Features and label in a weather model that predicts rainfall"/>
+  </a>
+  <br/>
+  <p>Types of ML Systems according to the learning type: Supervised, Unsupervised and Reinforcement Learning</p>
+  <em>Image source: LinkedIn Learning</em>
+</div>
+
 ---
 
 ### Supervised learning common cases
@@ -124,6 +133,7 @@ Regression and classification are the two most common supervised learning cases:
     - [Introduction to Generative AI](https://www.skills.google/paths/118/course_templates/536) (By Google Cloud Skills Boost)
     - [Introduction to Machine Learning](https://developers.google.com/machine-learning/intro-to-ml) (By Google for Developers)
     - [Introduction to Machine Learning Problem Framing](https://developers.google.com/machine-learning/problem-framing) (By Google for Developers)
+    - [Machine Learning with Python: Foundations](https://www.linkedin.com/learning/machine-learning-with-python-foundations) (By LinkedIn Learning)
   - Books:
     - Hands-On Machine Learning with Scikit-Learn, Keras, and Tensorflow: Concepts, Tools, and Techniques to Build Intelligent Systems (By Aurélien Géron)
 
