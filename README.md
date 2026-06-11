@@ -47,6 +47,15 @@ ML isn't a silver bullet, don't try to solve every problem with ML.
 In many cases, it can be overkill, like using a sledgehammer to crack a nut.
 First, try to imagine a solution without ML (heuristic solution), then evaluate whether an ML approach actually adds value to your solution in terms of quality, cost, time savings, and performance.
 
+<div align="center">
+  <a href="https://i.ibb.co/Y4q767hj/Captura-de-tela-2026-06-10-224817.png">
+    <img src="https://i.ibb.co/Y4q767hj/Captura-de-tela-2026-06-10-224817.png" width="600" alt="The ML process in six steps: Collection, Exploration, Preparation, Modeling, Evaluation, and Deployment"/>
+  </a>
+  <br/>
+  <p>The ML process in six steps: Collection, Exploration, Preparation, Modeling, Evaluation, and Deployment.</p>
+  <em>Image source: LinkedIn Learning</em>
+</div>
+
 ## Types of ML Systems
 
 - According to the task: [Generative or Discriminative](#inside-deep-learning)
